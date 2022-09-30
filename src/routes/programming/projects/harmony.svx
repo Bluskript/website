@@ -1,0 +1,13 @@
+---
+name: Harmony
+links:
+- https://harmonyapp.io
+logo: /harmony-lotus.svg
+---
+
+#### Harmony
+
+Harmony is an experimental chat platform
+that uses a new form of federation.
+It aims to support features similar to Discord
+and aims to solve the performance issues of Matrix.

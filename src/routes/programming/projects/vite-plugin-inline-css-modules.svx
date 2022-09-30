@@ -1,0 +1,9 @@
+---
+name: vite-plugin-inline-css-modules
+links:
+- https://github.com/Bluskript/vite-plugin-inline-css-modules
+logo: /vite.svg
+---
+
+#### vite-plugin-inline-css-modules
+
